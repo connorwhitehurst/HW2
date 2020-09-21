@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPA Calculator", "Homework 2\GPA Calculator.csproj", "{4AE2BD9A-5CA1-4136-9812-E3BC02892512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "ConsoleApp1\FizzBuzz.csproj", "{7DF746A6-057B-485A-ADE4-C917CD4229C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AE2BD9A-5CA1-4136-9812-E3BC02892512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE2BD9A-5CA1-4136-9812-E3BC02892512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE2BD9A-5CA1-4136-9812-E3BC02892512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE2BD9A-5CA1-4136-9812-E3BC02892512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF746A6-057B-485A-ADE4-C917CD4229C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF746A6-057B-485A-ADE4-C917CD4229C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF746A6-057B-485A-ADE4-C917CD4229C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF746A6-057B-485A-ADE4-C917CD4229C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD77980-8937-4F3F-A7ED-B586C45DD780}
+	EndGlobalSection
+EndGlobal
